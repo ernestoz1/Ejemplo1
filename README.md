@@ -5,5 +5,6 @@ Usando animación Sass y Flask
 
 
 # Instalar dependencias
+```
 - pip install flask
-
+```
